@@ -1,2 +1,0 @@
-# infiniteRedTensorflowJS
-Created with CodeSandbox
